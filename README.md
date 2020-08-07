@@ -33,4 +33,29 @@ This is Normal Text
 [Github](https://www.github.com)
 
 
+> We're living the future so
+> the present is our past
 
+S.No|Name|MobileNo
+----|----|---------
+1|Mastan Vali|6301067787
+2|Harideep|1234567890
+3|Vali|5654542562
+
+```python
+def isEven(n):
+   if n%2 == 0:
+      print("Even")
+   else:
+      print("Odd")
+```
+
+
+- [X] Task1
+- [ ] Task2
+
+
+
+:grinning:
+
+:sunglasses:
